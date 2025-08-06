@@ -83,14 +83,12 @@ relationships.json
 
 - [x] Create project structure documentation (README.md)
 - [x] Define JSON templates
-- [ ] Create directory structure
-- [ ] Create basic level badges
-- [ ] Create associated courses for basic badges
-- [ ] Create intermediate level badges
-- [ ] Create associated courses for intermediate badges
-- [ ] Create expert level badges
-- [ ] Create associated courses for expert badges
-- [ ] Define relationships between badges
-- [ ] Validate all JSON files
-- [ ] Review progression paths
-- [ ] Document badge acquisition requirements
+- [x] Create directory structure
+- [x] Create basic level badges
+- [x] Create associated courses for basic badges
+- [x] Create intermediate level badges
+- [x] Create associated courses for intermediate badges
+- [x] Create expert level badges
+- [x] Create associated courses for expert badges
+- [x] Define relationships between badges
+- [x] Validate all JSON files
